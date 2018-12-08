@@ -8,4 +8,4 @@ in Naples (November 21st, 2018) and organized by [DevDay](http://www.devday.it/)
 Following the links to the resources for this meetup :
 
 * [slides](https://www.slideshare.net/paolopat/meet-apache-kafka-data-streaming-in-your-hands-123772198) on Slideshare
-* [video](https://) on YouTube (DevDay channel)
+* [video](https://www.youtube.com/watch?v=XCcMDQq6Tlo) on YouTube (DevDay channel)
